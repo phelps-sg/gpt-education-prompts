@@ -7,7 +7,7 @@ Dr. Green leads you into the greenhouse, which is filled with rows of plants and
 "As you can see," Dr. Green says, "we have everything we need to optimize the yield of our crops. Let's get started!"
 
 
-examine the lab bench
+>examine the lab bench
 
 As you walk over to the laboratory bench, you see that it's equipped with a variety of instruments and apparatus. There's a pH meter, which is used to measure the acidity or basicity of a solution. You also see a series of beakers and test tubes, as well as a Bunsen burner and a small microscope.
 
@@ -23,7 +23,7 @@ You walk over to the laboratory bench and place the beaker on it. Dr. Green pick
 
 "See, the pH of pure water is around 7.0," he explains. "Now let's try testing some soil or plant leaves to see how their pH levels compare."
 
-examine the tomatoes
+> examine the tomatoes
 
 You walk over to the rows of tomatoes and examine them closely. They're a deep red color and look ripe and ready to be picked. You notice that their leaves are a deep green, indicating that they're healthy and receiving enough sunlight.
 
@@ -43,7 +43,7 @@ ask dr. green what is the  pH preference of tomatoes
 
 "It's always a good idea to test the pH of your soil and make sure it's within the optimal range for the crops you're growing," he adds. "That way, you can be sure that you're providing them with the best conditions for growth and maximizing their yield."
 
-look
+> look
 
 You look around the greenhouse and see rows of various crops stretching out in all directions. There's wheat, corn, tomatoes, lettuce, and potatoes, all in different stages of growth. You notice that the greenhouse is well-lit and there's a water tap and a laboratory bench nearby. There's also a computer console that controls the automated irrigation system and a variety of gardening tools, including a spade and a variety of bags containing different types of soil.
 
@@ -59,7 +59,7 @@ You walk over to the bags of soil and examine them closely. There are several di
 
 "By using the right type of soil for your crops, you can optimize their growth and maximize their yield," he adds. "It's always a good idea to experiment with different types of soil and see which one works best for your particular crops."
 
-test the ph level of the peat moss
+> test the ph level of the peat moss
 
 You pick up a bag of peat moss and carry it over to the laboratory bench. Dr. Green hands you a pH meter and you dip it into the peat moss. After a few seconds, the meter displays a reading of around 4.5.
 
@@ -67,7 +67,7 @@ You pick up a bag of peat moss and carry it over to the laboratory bench. Dr. Gr
 
 "It's always a good idea to test the pH of any soil or compost you're using," he adds. "That way, you can be sure that you're providing your plants with the best possible growing conditions and maximizing their yield."
 
-test the ph level of the pottting soil
+> test the ph level of the pottting soil
 
 You pick up a bag of potting soil and carry it over to the laboratory bench. Dr. Green hands you a pH meter and you dip it into the potting soil. After a few seconds, the meter displays a reading of around 6.5.
 
@@ -75,7 +75,7 @@ You pick up a bag of potting soil and carry it over to the laboratory bench. Dr.
 
 "It's always a good idea to test the pH of any soil or compost you're using," he adds. "That way, you can be sure that you're providing your plants with the best possible growing conditions and maximizing their yield."
 
-repot a tomato plant in a pot containing potting soil
+> repot a tomato plant in a pot containing potting soil
 
 You walk over to the rows of tomato plants and carefully select one that looks healthy and ready to be repotted. You pick up a pot and fill it with potting soil, making sure to leave enough room for the plant's roots.
 
@@ -105,7 +105,7 @@ After taking all of the measurements, you jot them down on a piece of paper. You
 
 You nod, grateful for the opportunity to learn and experiment with different variables to optimize the growth of your crops.
 
-leave the farm, and come back after one week to see which plant has grown more
+> leave the farm, and come back after one week to see which plant has grown more
 
 You decide to take a break from the farm and come back after one week to see how the tomato plants are doing. When you return, you are pleasantly surprised to see that both plants have grown significantly in the week you were away.
 
@@ -115,7 +115,7 @@ The tomato plant in the potting soil is now taller and wider than it was when yo
 
 You nod, feeling grateful for the opportunity to learn and experiment with different variables to optimize the growth of your crops.
 
-ask dr. green how to control for other factors apart from soil type
+> ask dr. green how to control for other factors apart from soil type
 
 "There are many ways to control for other factors that might impact the growth of your crops, in addition to the type of soil you use," Dr. Green explains. "For example, the amount of water and sunlight the plants receive can have a big impact on their growth. If they're not getting enough water, they'll wilt and their growth will be stunted. And if they're not getting enough sunlight, their leaves will be pale and their growth will be slow."
 
@@ -123,7 +123,7 @@ ask dr. green how to control for other factors apart from soil type
 
 "It's also important to monitor the pH levels of the soil and water you're using," he adds. "By understanding the pH preferences of your particular crops, you can optimize their growth and maximize their yield."
 
-move the two tomato plants so that they are receiving the same amount of sunlight
+> move the two tomato plants so that they are receiving the same amount of sunlight
 
 You walk over to the two pots containing the tomato plants and carefully lift them. You move them to a spot in the greenhouse where they'll receive an equal amount of sunlight.
 
@@ -131,7 +131,7 @@ You walk over to the two pots containing the tomato plants and carefully lift th
 
 You nod, feeling grateful for the opportunity to learn and experiment with different variables to optimize the growth of your crops. You can't wait to see how the plants are doing in a week's time.
 
-use the computer console to configure the same  water supply for both plants
+> use the computer console to configure the same  water supply for both plants
 
 You walk over to the computer console and begin to configure the automated irrigation system. You enter the same amount of water per day for both of the tomato plants, ensuring that they will receive the same amount of water.
 
@@ -139,7 +139,7 @@ Dr. Green watches as you make the changes on the console, nodding in approval. "
 
 You finish making the changes on the console and turn to Dr. Green, feeling confident that you have done everything you can to optimize the growth of your crops. Now, you just have to wait and see the results.
 
-leave the farm and return after one week
+> leave the farm and return after one week
 
 You decide to take a break from the farm and come back after one week to see how the tomato plants are doing. When you return, you can see that both plants have grown significantly in the week you were away. The tomato plant in the potting soil is now taller and wider than it was when you first repotted it, and its leaves are a deep, healthy green. The tomato plant in the peat moss has also grown, although it's not quite as tall or wide as the one in the potting soil.
 

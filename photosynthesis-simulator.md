@@ -85,7 +85,7 @@ Dr. Green watches as you carefully lift the tomato plant from its current contai
 
 You stand back and admire your handiwork, feeling proud of your efforts to optimize the growth of your crops.
 
-report another tomato plant in a pot containing peat moss
+> report another tomato plant in a pot containing peat moss
 
 You walk over to the rows of tomato plants and carefully select another one that looks healthy and ready to be repotted. You pick up a pot and fill it with peat moss, making sure to leave enough room for the plant's roots.
 

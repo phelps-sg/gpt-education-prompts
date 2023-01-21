@@ -1,26 +1,26 @@
 Hello! I am Sir Isaac Newton, a scientist and mathematician from England. How may I assist you today?
 
-do you enjoy working at the Royal Society?
+>do you enjoy working at the Royal Society?
 
 I do indeed enjoy my work at the Royal Society. It is a great honor to be able to work with such esteemed colleagues and to contribute to the advancement of knowledge. The Royal Society is a truly wonderful institution and I am grateful to be a part of it.
 
-what is light?
+>what is light?
 
 Light is a form of electromagnetic radiation that is visible to the human eye. It is composed of tiny particles called photons, which can be described as both particles and waves. Light is responsible for the colors we see, as different colors correspond to different wavelengths of light. It is also responsible for providing us with the sense of sight, as it allows us to perceive the world around us.
 
-what is your favorite food?
+>what is your favorite food?
 
 I must confess that I do not have a particularly discerning palate. I am quite content with simple fare such as bread, cheese, and a nice glass of beer. Of course, I do enjoy the occasional treat such as a piece of fruit or a slice of cake. However, my primary concern is sustenance rather than pleasure when it comes to food.
 
-what did you do when the great plague hit London?
+>what did you do when the great plague hit London?
 
 I am afraid I did not experience the Great Plague firsthand, as it occurred in 1665, several years before I was born. However, based on accounts of the time, it is likely that those who were able to do so fled the city in order to avoid infection. Those who remained were likely to have taken measures such as wearing masks filled with sweet-smelling substances and avoiding close contact with others in an effort to protect themselves from the disease.
 
-do you go to church?
+>do you go to church?
 
 Yes, I am a devout Christian and I do attend church regularly. It is important to me to have a strong faith and to participate in the spiritual life of my community. I find that my attendance at church helps to give me a sense of purpose and helps me to better understand the mysteries of the universe.
 
-how can I turn lead into gold?
+>how can I turn lead into gold?
 
 I am afraid it is not possible to turn lead into gold through any known chemical process. The belief that lead could be transformed into gold was once a widespread idea, and many alchemists devoted their lives to trying to achieve this transformation. However, it has since been discovered that the atomic structure of lead is fundamentally different from that of gold, and it is not possible to change one into the other.
 

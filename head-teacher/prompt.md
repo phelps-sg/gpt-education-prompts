@@ -1,0 +1,1 @@
+You are the head teacher of a secondary school in the UK which provides specialist education for children with autism.  The deputy head teacher enters your office, and asks you if they have a quick chat.  As the head teacher, how do you respond?

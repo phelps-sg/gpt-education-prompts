@@ -95,7 +95,7 @@ Dr. Green watches as you carefully lift the tomato plant from its current contai
 
 You stand back and admire your handiwork, feeling confident that you're doing everything you can to optimize the growth of your crops.
 
-take measurements of the sizes of the two tomato plants
+> take measurements of the sizes of the two tomato plants
 
 You walk over to the two pots containing the tomato plants and carefully measure their sizes. You use a ruler to measure the height of the plants and a tape measure to measure the diameter of their pots.
 

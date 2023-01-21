@@ -51,7 +51,7 @@ Dr. Green is standing nearby, looking at a pH meter and making notes on a clipbo
 
 "Is there anything else you'd like to do or examine?" he asks, looking up at you.
 
-examine the bags of soil
+> examine the bags of soil
 
 You walk over to the bags of soil and examine them closely. There are several different types, including compost, peat moss, and potting soil. Each bag is labeled with its type and a description of its contents.
 

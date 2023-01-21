@@ -1,0 +1,5 @@
+1. "What is the greatest common divisor of 12 and 20? Imagine you're designing a rollercoaster with 12 cars and 20 seats in each car. How many seats will be left over if you fill each car to capacity?"
+2. "Find the greatest common divisor of 36 and 18. Imagine you're building a rollercoaster with 36 tracks and 18 loops. How many tracks will have unused loops?"
+3. "The greatest common divisor of 42 and 28 is __. Imagine you're designing a rollercoaster with 42 twists and 28 turns. How many twists will be left over if you use all the turns?"
+4. "What is the greatest common divisor of 48 and 24? Imagine you're building a rollercoaster with 48 drops and 24 hills. How many drops will be left over if you use all the hills?"
+5. "Find the greatest common divisor of 50 and 35. Imagine you're designing a rollercoaster with 50 speed boosts and 35 corners. How many speed boosts will be left over if you use all the corners?"

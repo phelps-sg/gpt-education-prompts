@@ -13,7 +13,7 @@ As you walk over to the laboratory bench, you see that it's equipped with a vari
 
 "This is where we can analyze the pH levels of different solutions," Dr. Green explains. "For example, if we test pure water, it should have a pH of around 7.0, which is neutral. But if we test soil or a plant's leaves, the pH might be different. By understanding the pH of our crops, we can better understand their needs and optimize their growth."
 
-fill a beaker with water from the tap
+> fill a beaker with water from the tap
 
 You walk over to the water tap and fill a beaker with water. As you hold it up to the light, you can see that it's crystal clear and looks pure.
 
@@ -31,13 +31,13 @@ You walk over to the rows of tomatoes and examine them closely. They're a deep r
 
 "Well, it could be a variety of factors," Dr. Green replies. "They might be getting the right amount of water and sunlight, and the soil they're planted in could be well-suited for their needs. But to be sure, we should analyze the pH of the soil and the water they're being given. That way, we can be certain that we're optimizing their growth."
 
-ask dr. green how understanding the the pH level of soil allows us to optimize their growth
+> ask dr. green how understanding the the pH level of soil allows us to optimize their growth
 
 "Understanding the pH level of soil is important because different plants have different pH preferences," Dr. Green explains. "For example, some plants prefer soil that is more acidic, while others prefer soil that is more alkaline. By understanding the pH preferences of a particular plant, we can optimize their growth by providing them with the right soil conditions."
 
 "For example," he continues, "if we have a plant that prefers acidic soil, but we're providing it with alkaline soil, it's not going to grow as well as it could. On the other hand, if we provide it with acidic soil, it will thrive and produce a higher yield."
 
-ask dr. green what is the  pH preference of tomatoes
+> ask dr. green what is the  pH preference of tomatoes
 
 "Tomatoes generally prefer soil that is slightly acidic, around a pH of 6.0 to 6.5," Dr. Green explains. "But they're relatively adaptable and can grow in a wide range of pH levels. So if your soil is slightly different from this range, it shouldn't have a significant impact on their growth. However, if the pH is significantly off, it could affect their yield."
 

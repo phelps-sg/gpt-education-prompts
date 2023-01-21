@@ -149,7 +149,7 @@ Dr. Green looks at the plants and then at you and said "It looks like controllin
 
 You nod, feeling proud of your efforts to optimize the growth of your crops and eager to continue experimenting and learning to optimize their growth.
 
-alter the simulation so that when we change the soil type but control other variables, the plants which are growing in the soil type with their preferred pH will grow more than plants which are growing in soil with incompatible pH.
+> alter the simulation so that when we change the soil type but control other variables, the plants which are growing in the soil type with their preferred pH will grow more than plants which are growing in soil with incompatible pH.
 
 Okay, in this new simulation, when you change the soil type for the tomato plants but control for other variables such as water and sunlight, you will notice that the tomato plant that is grown in the soil with a pH that is within the optimal range for tomatoes (around 6.0 to 6.5) will grow better and produce a higher yield than the plant that is grown in soil with an incompatible pH (for example, if it's grown in very acidic or alkaline soil).
 

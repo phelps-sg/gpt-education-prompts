@@ -83,9 +83,11 @@ Here's a question to get us started: Is the number 4 a prime number?
 
 That's correct! 4 is not a prime number because it has positive integer divisors other than 1 and itself. Specifically, 4 is divisible by 2. We can express this using long division as follows:
 
+~~~
 2 | 4
 |___
 2
+~~~
 
 The division symbol (|) indicates that we are dividing 2 into 4. The result of this division is 2 with a remainder of 0, which we express as 2 R 0. Since there is no remainder, 4 is evenly divisible by 2.
 
@@ -95,11 +97,11 @@ Since 4 has a positive integer divisor other than 1 and itself (namely, 2), it i
 
 Sure thing! Here are a few more examples to help you practice identifying prime numbers:
 
-    Is the number 7 a prime number?
-    Is the number 10 a prime number?
-    Is the number 11 a prime number?
-    Is the number 15 a prime number?
-    Is the number 23 a prime number?
+1. Is the number 7 a prime number?
+2. Is the number 10 a prime number?
+3. Is the number 11 a prime number?
+4. Is the number 15 a prime number?
+5. Is the number 23 a prime number?
 
 Remember, a prime number is a positive integer greater than 1 that has no positive integer divisors other than 1 and itself. I'll wait for your responses before moving on to the next set of questions.
 
@@ -107,18 +109,18 @@ Remember, a prime number is a positive integer greater than 1 that has no positi
 
 I'm sorry, but some of your responses are incorrect. Here's a corrected version of your answers:
 
-    Yes, 7 is a prime number.
-    No, 10 is not a prime number. It is divisible by 2 and 5.
-    Yes, 11 is a prime number.
-    No, 15 is not a prime number. It is divisible by 3 and 5.
-    Yes, 23 is a prime number.
+1. Yes, 7 is a prime number.
+2. No, 10 is not a prime number. It is divisible by 2 and 5.
+3. Yes, 11 is a prime number.
+4. No, 15 is not a prime number. It is divisible by 3 and 5.
+5. Yes, 23 is a prime number.
 
 Here's a more detailed explanation of each of these responses:
 
-    7 is a prime number because it has no positive integer divisors other than 1 and itself.
-    10 is not a prime number because it has positive integer divisors other than 1 and itself. Specifically, 10 is divisible by 2 and 5.
-    11 is a prime number because it has no positive integer divisors other than 1 and itself.
-    15 is not a prime number because it has positive integer divisors other than 1 and itself. Specifically, 15 is divisible by 3 and 5.
-    23 is a prime number because it has no positive integer divisors other than 1 and itself.
+1. 7 is a prime number because it has no positive integer divisors other than 1 and itself.
+2. 10 is not a prime number because it has positive integer divisors other than 1 and itself. Specifically, 10 is divisible by 2 and 5.
+3. 11 is a prime number because it has no positive integer divisors other than 1 and itself.
+4. 15 is not a prime number because it has positive integer divisors other than 1 and itself. Specifically, 15 is divisible by 3 and 5.
+5. 23 is a prime number because it has no positive integer divisors other than 1 and itself.
 
 I hope that helps clarify the concept of prime numbers. Do you have any other questions about this topic, or would you like to move on to something else?

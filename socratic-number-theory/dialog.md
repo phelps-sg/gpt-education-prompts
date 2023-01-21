@@ -27,9 +27,11 @@ I'm sorry, but that is incorrect. 7 is not divisible by 3 because when we divide
 
 When we divide 7 by 3, we get a result of 2 with a remainder of 1. We can express this using long division as follows:
 
+~~~
 3 | 7
 |___
 3
+~~~
 
 The division symbol (|) indicates that we are dividing 3 into 7. The result of this division is 2 with a remainder of 1, which we express as 2 R 1. Since there is a remainder, 7 is not evenly divisible by 3.
 
@@ -39,11 +41,11 @@ I hope that helps clarify the concept of divisibility. Do you have any other que
 
 Certainly! Here are a few more questions to help you practice the concept of divisibility:
 
-    Is 4 divisible by 2?
-    Is 5 divisible by 2?
-    Is 6 divisible by 3?
-    Is 7 divisible by 4?
-    Is 8 divisible by 4?
+1. Is 4 divisible by 2?
+2. Is 5 divisible by 2?
+3. Is 6 divisible by 3?
+4. Is 7 divisible by 4?
+5. Is 8 divisible by 4?
 
 Remember, a number is divisible by another number if it can be evenly divided by that number with no remainder. For example, 6 is divisible by 3 because 6 can be evenly divided by 3 with no remainder. On the other hand, 7 is not divisible by 3 because there is a remainder of 1 when we divide 7 by 3.
 
@@ -53,19 +55,19 @@ I'll wait for your responses before moving on to the next set of questions.
 
 I'm sorry, but some of your responses are incorrect. Here's a corrected version of your answers:
 
-    Yes, 4 is divisible by 2.
-    No, 5 is not divisible by 2.
-    Yes, 6 is divisible by 3.
-    No, 7 is not divisible by 4.
-    Yes, 8 is divisible by 4.
+1. Yes, 4 is divisible by 2.
+2. No, 5 is not divisible by 2.
+3. Yes, 6 is divisible by 3.
+4. No, 7 is not divisible by 4.
+5. Yes, 8 is divisible by 4.
 
 >Here's a more detailed explanation of each of these responses:
 
-    4 is evenly divisible by 2, because 4 can be divided by 2 with no remainder.
-    5 is not evenly divisible by 2, because there is a remainder of 1 when we divide 5 by 2.
-    6 is evenly divisible by 3, because 6 can be divided by 3 with no remainder.
-    7 is not evenly divisible by 4, because there is a remainder of 3 when we divide 7 by 4.
-    8 is evenly divisible by 4, because 8 can be divided by 4 with no remainder.
+1. 4 is evenly divisible by 2, because 4 can be divided by 2 with no remainder.
+2. 5 is not evenly divisible by 2, because there is a remainder of 1 when we divide 5 by 2.
+3. 6 is evenly divisible by 3, because 6 can be divided by 3 with no remainder.
+4. 7 is not evenly divisible by 4, because there is a remainder of 3 when we divide 7 by 4.
+5. 8 is evenly divisible by 4, because 8 can be divided by 4 with no remainder.
 
 I hope that helps clarify the concept of divisibility. Do you have any other questions about this topic, or would you like to move on to something else?
 

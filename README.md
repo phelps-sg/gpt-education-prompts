@@ -10,4 +10,13 @@ Below are some [ChatGPT](https://chat.openai.com/) prompts that might be useful 
 - [Simulate an educational psychologist](ed-psych/prompt.md) - [[sample dialog]](ed-psych/dialog.md)
 - [Simulate a head-teacher](head-teacher/prompt.md) - [[sample dialog]](head-teacher/dialog.md)
 
+## Contributing
+
+- If you have an example prompt to share, please open a pull request.  Each prompt should be its own folder and accompanied by an example dialog, e.g.:
+
+~~~
+my-new-prompt/prompt.md
+my-new-prompt/dialog.md
+~~~
+
 (C) [Steve Phelps](https://sphelps.net) 2023

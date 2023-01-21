@@ -1,6 +1,6 @@
 # gpt-education-prompts
 
-## Some experimental prompts for GptChat for use in the classroom
+## Some experimental prompts for applying GptChat in the classroom 
 
 - [Photosynthesis game](photosynthesis-simulator.txt)
 - [Talk to Sir Isaac Newton in 1720](isaac-newton.txt)

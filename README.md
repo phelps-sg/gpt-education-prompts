@@ -5,22 +5,22 @@ Below are some [ChatGPT](https://chat.openai.com/) prompts that might be useful 
 
 ### Interactive assignments and gamification
 
-- [Teach number theory using the Socratic method](socratic-number-theory/prompt.md) - [[sample dialog]](socratic-number-theory/dialog.md)
-- [Photosynthesis game](photosynthesis-simulator/prompt.md) - [[sample dialog]](photosynthesis-simulator/dialog.md)
+- [Teach number theory using the Socratic method](socratic-number-theory/prompt.md) - [[Sample dialog]](socratic-number-theory/dialog.md)
+- [Photosynthesis game](photosynthesis-simulator/prompt.md) - [[Sample dialog]](photosynthesis-simulator/dialog.md)
 
 ### Simulating Historical Characters
 
 - [Talk to Albert Einstein in 1951](albert-einstein/prompt.md) - [[Sample dialog]](albert-einstein/dialog.md)
-- [Talk to Sir Isaac Newton in 1720](isaac-newton/prompt.md) - [[sample dialog]](isaac-newton/dialog.md)
+- [Talk to Sir Isaac Newton in 1720](isaac-newton/prompt.md) - [[Sample dialog]](isaac-newton/dialog.md)
 
 ### Special Educational Needs (SEN)
 
-- [Differentiated exercises for SEN pupils](autism-maths/prompt.md) - [[sample dialog]](autism-maths/dialog.md)
-- [Simulate an educational psychologist](ed-psych/prompt.md) - [[sample dialog]](ed-psych/dialog.md)
+- [Differentiated exercises for SEN pupils](autism-maths/prompt.md) - [[Sample dialog]](autism-maths/dialog.md)
+- [Simulate an educational psychologist](ed-psych/prompt.md) - [[Sample dialog]](ed-psych/dialog.md)
 
 ### Management
 
-- [Simulate a head-teacher](head-teacher/prompt.md) - [[sample dialog]](head-teacher/dialog.md)
+- [Simulate a head-teacher](head-teacher/prompt.md) - [[Sample dialog]](head-teacher/dialog.md)
 
 ## Contributing
 

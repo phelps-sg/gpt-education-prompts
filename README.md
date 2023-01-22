@@ -8,7 +8,7 @@ Below are some [ChatGPT](https://chat.openai.com/) prompts that might be useful 
 - [Teach number theory using the Socratic method](socratic-number-theory/prompt.md) - [[Sample dialog]](socratic-number-theory/dialog.md)
 - [Photosynthesis game](photosynthesis-simulator/prompt.md) - [[Sample dialog]](photosynthesis-simulator/dialog.md)
 
-### Simulating Historical Characters
+### Simulating historical characters
 
 - [Talk to Albert Einstein in 1951](albert-einstein/prompt.md) - [[Sample dialog]](albert-einstein/dialog.md)
 - [Talk to Sir Isaac Newton in 1720](isaac-newton/prompt.md) - [[Sample dialog]](isaac-newton/dialog.md)
